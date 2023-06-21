@@ -1,0 +1,9 @@
+# Panda3D
+built/
+dist/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
